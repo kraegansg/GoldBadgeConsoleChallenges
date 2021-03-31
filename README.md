@@ -1,4 +1,5 @@
 GoldBadgeConsoleChallenge
+
 The solution in this repository holds 3 separate console applications:
 
 Cafe Menu Editing Application
