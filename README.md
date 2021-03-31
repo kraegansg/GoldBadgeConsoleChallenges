@@ -3,7 +3,9 @@ GoldBadgeConsoleChallenge
 The solution in this repository holds 3 separate console applications:
 
 1)Cafe Menu Editing Application
+
 2)Insurance Claims Processing and Editing Application
+
 3)Insurance Email Editing Application
 
 Below, you'll find the assignment parameters for each console application, along with my notes in regards to the functionality and build of each.
